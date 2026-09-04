@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "built": "2026-09-04T21:26:23.281Z",
+  "files": {
+    "mhs.css": {
+      "bytes": 48863,
+      "sri": "sha384-JKJzkBOYkSXEhwZgC2fa4IIW8TjD64pWhuM0ZWoAJzY4lgDlpNrXySisjMvMdnNf"
+    },
+    "mhs.js": {
+      "bytes": 9187,
+      "sri": "sha384-yyxVCQwuEICXwvlrs7rpjVv6gtZGpF9pb3F5IcdIAtsf2qe6vf/w/HsknETvt1Ui"
+    }
+  }
+}
