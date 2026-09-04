@@ -1,14 +1,14 @@
 {
-  "version": "0.1.1",
-  "built": "2026-09-04T21:38:24.267Z",
+  "version": "0.1.2",
+  "built": "2026-09-04T21:41:59.894Z",
   "files": {
     "mhs.css": {
-      "bytes": 49202,
-      "sri": "sha384-KS0I49pH7AFW+ZwXw/xYfPHsd43K71Lz7lvS/OQ3X+ksdASaUVCrzgVzRO7uVeMy"
+      "bytes": 49407,
+      "sri": "sha384-B3zD0hUz/WohpJr80R7d9wO2eS/3YcZc+CXOncIO9LLwDMAkA5zap/oMdov0UQA0"
     },
     "mhs.js": {
       "bytes": 9187,
-      "sri": "sha384-dia8hLBFIi/MbYPXmkTK52dj5moToMFsBwGlz0W9G6PatX2aAkhdCE+vAFeFdBjO"
+      "sri": "sha384-ZZTdwtfnJHxwC9LbJp/v20pTQVcAEcuqrqanVmQTc74KHyjO4DZmllY7URIFGxxP"
     }
   }
 }
