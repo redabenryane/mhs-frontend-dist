@@ -1,14 +1,26 @@
 {
-  "version": "0.1.3",
-  "built": "2026-09-04T21:46:09.103Z",
+  "version": "0.2.0",
+  "built": "2026-09-04T23:48:38.975Z",
   "files": {
+    "chunk-chunk-A2IHFA7F.js": {
+      "bytes": 1111,
+      "sri": "sha384-Tf5qvjfY2kJ7sPpq1lEzatrornHxb70JGNpxdDuNOazp24ynJFVQby7j2JOhse/u"
+    },
+    "chunk-filters-UQUHXM3D.js": {
+      "bytes": 2112,
+      "sri": "sha384-CAVnqBSpKcwMIDCceaAAMlMuODACwGhdBkj0Prh009DxQ5rQOnWXJjc2DMBYzCMk"
+    },
+    "chunk-product-XNG6ND7G.js": {
+      "bytes": 3158,
+      "sri": "sha384-dBLPV3YIeaHKYc8on0FqzlXlf2Ul4RvCdYNmoesxCBGglSloEcRrgkYpsx0yzstY"
+    },
     "mhs.css": {
-      "bytes": 49541,
-      "sri": "sha384-jR0ZkYkx7Xkb7Ax/tNHHXKYPlv8zkVlc6e+H/nPA/j/rCfSSIfDvZw3FpOE4gP0i"
+      "bytes": 53787,
+      "sri": "sha384-BP9A3o+7Y+3MTgRDKdgc2q1/xLHcV+5meFag8Dn+zQg4hJBab+bmwc8shOl7bq77"
     },
     "mhs.js": {
-      "bytes": 9264,
-      "sri": "sha384-qh6sRO2Ftb6E/mizfn9fHNzI9jtEO5ZY8SdkszMm2zzMQXdVZg0bAo/DLBYyAkVL"
+      "bytes": 8529,
+      "sri": "sha384-9Y/yBQh8m6EvB6C0vBnqBuPMjTmI8Ql2Yf3FGkYhrSHrVz+4Nbe2iiVGKlavWBv0"
     }
   }
 }
