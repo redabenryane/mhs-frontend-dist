@@ -1,26 +1,26 @@
 {
-  "version": "0.2.1",
-  "built": "2026-09-05T14:50:05.742Z",
+  "version": "0.2.2",
+  "built": "2026-09-05T16:31:17.809Z",
   "files": {
-    "chunk-chunk-VEFRGWKK.js": {
+    "chunk-chunk-NZU6DSLY.js": {
       "bytes": 1111,
-      "sri": "sha384-1EawZBGvU/TPsXTPSidk5YAYDWSFiLmqGmBgdDMVCz4CFXlRs+KNXhkouTPZSh2x"
+      "sri": "sha384-zFXId8DMCHHELnxzbDEqFmB9w42RxqSj8llKXp4X3mfvgf/MhfV6C0pqUsdFHWUL"
     },
-    "chunk-filters-QN246F7A.js": {
+    "chunk-filters-YWDM3DUA.js": {
       "bytes": 2112,
-      "sri": "sha384-DVKRJZ90RkjoV+xUA8KkG5NJo+PVumfe6sKrYdko3jRRM6KVS563AW5sB4nuG2v6"
+      "sri": "sha384-3BAl0H+F9No58+SQj5jyMG6pOCA0uEhXea8ZAyYa/Yx31y3GdOIpHBQj0/llFuT4"
     },
-    "chunk-product-UJ4NEHK2.js": {
+    "chunk-product-3IOIVZPQ.js": {
       "bytes": 3158,
-      "sri": "sha384-NsBXewBEE1sK6LhMBhB2idm70s53/NxED1GsQqO+IEsQJlufxHsTdUH8xNKtzBhR"
+      "sri": "sha384-pCwBPstlx05JRTN6gkz9KZn5r/vlleVfSQ2jJqaefzepgZe9VX0Syd0TwH81bv5G"
     },
     "mhs.css": {
-      "bytes": 53961,
-      "sri": "sha384-TaGCpCXcbkwxx6EYHW+W+2KU5OLQE8S91bnWnAOoWP3AOSYOTGsargTx+bN76EEo"
+      "bytes": 54464,
+      "sri": "sha384-SnMrWIV0Lnbf3Fjy6ml1erOlMmTHSPlNABt9xNjGwOieWdZwyznuGtyAP5PrDv2+"
     },
     "mhs.js": {
       "bytes": 8629,
-      "sri": "sha384-04U+8i5fYY/ps3BegpUtpGsPr9GQ8AGK8YpPONlqArAGpjlN30hR3gajIJn9UW84"
+      "sri": "sha384-ychX4jP96G0so3+aMj0J7jMw+yoT4zKSp0cYPLw6yKn0BYQMYFfe3Y3qFbRYuXs9"
     }
   }
 }
