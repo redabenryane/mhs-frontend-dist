@@ -1,26 +1,26 @@
 {
-  "version": "0.2.0",
-  "built": "2026-09-04T23:48:38.975Z",
+  "version": "0.2.1",
+  "built": "2026-09-05T14:50:05.742Z",
   "files": {
-    "chunk-chunk-A2IHFA7F.js": {
+    "chunk-chunk-VEFRGWKK.js": {
       "bytes": 1111,
-      "sri": "sha384-Tf5qvjfY2kJ7sPpq1lEzatrornHxb70JGNpxdDuNOazp24ynJFVQby7j2JOhse/u"
+      "sri": "sha384-1EawZBGvU/TPsXTPSidk5YAYDWSFiLmqGmBgdDMVCz4CFXlRs+KNXhkouTPZSh2x"
     },
-    "chunk-filters-UQUHXM3D.js": {
+    "chunk-filters-QN246F7A.js": {
       "bytes": 2112,
-      "sri": "sha384-CAVnqBSpKcwMIDCceaAAMlMuODACwGhdBkj0Prh009DxQ5rQOnWXJjc2DMBYzCMk"
+      "sri": "sha384-DVKRJZ90RkjoV+xUA8KkG5NJo+PVumfe6sKrYdko3jRRM6KVS563AW5sB4nuG2v6"
     },
-    "chunk-product-XNG6ND7G.js": {
+    "chunk-product-UJ4NEHK2.js": {
       "bytes": 3158,
-      "sri": "sha384-dBLPV3YIeaHKYc8on0FqzlXlf2Ul4RvCdYNmoesxCBGglSloEcRrgkYpsx0yzstY"
+      "sri": "sha384-NsBXewBEE1sK6LhMBhB2idm70s53/NxED1GsQqO+IEsQJlufxHsTdUH8xNKtzBhR"
     },
     "mhs.css": {
-      "bytes": 53787,
-      "sri": "sha384-BP9A3o+7Y+3MTgRDKdgc2q1/xLHcV+5meFag8Dn+zQg4hJBab+bmwc8shOl7bq77"
+      "bytes": 53961,
+      "sri": "sha384-TaGCpCXcbkwxx6EYHW+W+2KU5OLQE8S91bnWnAOoWP3AOSYOTGsargTx+bN76EEo"
     },
     "mhs.js": {
-      "bytes": 8529,
-      "sri": "sha384-9Y/yBQh8m6EvB6C0vBnqBuPMjTmI8Ql2Yf3FGkYhrSHrVz+4Nbe2iiVGKlavWBv0"
+      "bytes": 8629,
+      "sri": "sha384-04U+8i5fYY/ps3BegpUtpGsPr9GQ8AGK8YpPONlqArAGpjlN30hR3gajIJn9UW84"
     }
   }
 }
